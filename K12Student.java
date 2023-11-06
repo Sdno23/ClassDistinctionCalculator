@@ -10,9 +10,10 @@
  * Lecturer's Name: C. Charters
  */
 
-package studentdemo;
+package classdistinctioncalculator;
 
 import java.util.ArrayList;
+import classdistinctioncalculator.Student;
 
 /**
  *
