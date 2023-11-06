@@ -10,9 +10,10 @@
  * Lecturer's Name: C. Charters
  */
 
-package studentdemo;
+package classdistinctioncalculator;
 
 import java.util.ArrayList;
+import classdistinctioncalculator.Student;
 
 /**
  *
@@ -113,3 +114,6 @@ public class CollegeStudent extends Student  {
         int yearsLeft = 4 - yearInCollege;
         return yearsLeft;
     }
+   
+   
+}
